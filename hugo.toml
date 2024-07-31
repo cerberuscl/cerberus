@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cerberus.cl/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'cerberus analitica corp'
+[params]
+  subtitle = 'Less than 15 seconds to comply'
+  [params.contact]
+    email = 'contact@cerberus.cl'
 theme = 'ananke'
+
